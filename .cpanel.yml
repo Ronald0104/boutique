@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-  - export DEPLOYPATH=/home2/phmigxhu/public_html/boutique-test/
+  - export DEPLOYPATH=/home2/phmigxhu/public_html/boutique_test/
   - /bin/cp alumno.php $DEPLOYPATH
   - /bin/cp index.php $DEPLOYPATH
